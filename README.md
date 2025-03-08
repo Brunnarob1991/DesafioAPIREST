@@ -1,6 +1,6 @@
 # Decola Tech 2025
 
-Java RESTful API criada para a Santander Dev Week.
+Java RESTful API criada para a Decola Dev 2025.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
